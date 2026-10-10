@@ -11,7 +11,7 @@ Pricing in this demo:
 Regions: UK, USA, Germany
 
 Important WhatsApp note:
-The number you dictated was 0314196869 (10 digits). Pakistan mobile numbers usually have 11 digits. Please verify the number. In index.html, find WHATSAPP_NUMBER and change it to the correct number in international format, digits only (e.g. 923XXXXXXXXX).
+The number you dictated was 03014196869 (10 digits). Pakistan mobile numbers usually have 11 digits. Please verify the number. In index.html, find WHATSAPP_NUMBER and change it to the correct number in international format, digits only (e.g. 923014196869).
 
 How to use:
 1. Unzip this file on your phone or computer.
