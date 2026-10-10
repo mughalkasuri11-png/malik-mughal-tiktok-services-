@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Malik & Mughal Online Services</title>
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+        }
+        body {
+            background-color: #0f172a;
+            color: #ffffff;
+            padding: 10px;
+        }
+        header {
+            text-align: center;
+            padding: 20px 10px;
+            background: #1e293b;
+            border-radius: 10px;
+            border-bottom: 3px solid #f59e0b;
+            margin-bottom: 15px;
+        }
+        h1 {
+            color: #f59e0b;
+            font-size: 22px;
+            margin-bottom: 5px;
+        }
+        p.sub {
+            color: #94a3b8;
+            font-size: 13px;
+        }
+        .banner {
+            background-color: #dc2626;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            font-size: 13px;
+            font-weight: bold;
+            border-radius: 8px;
+            margin-bottom: 15px;
+        }
+        .section-heading {
+            color: #38bdf8;
+            font-size: 18px;
+            margin: 15px 0 10px 5px;
+        }
+        .card {
+            background: #1e293b;
+            border: 1px solid #334155;
+            border-radius: 10px;
+            padding: 15px;
+            margin-bottom: 12px;
+            text-align: center;
+        }
+        .card h3 {
+            color: #ffffff;
+            font-size: 16px;
+            margin-bottom: 5px;
+        }
+        .tag {
+            display: inline-block;
+            background: #0284c7;
+            color: white;
+            padding: 3px 10px;
+            border-radius: 15px;
+            font-size: 11px;
+            margin-bottom: 8px;
+        }
+        .card p {
+            color: #94a3b8;
+            font-size: 12px;
+            margin-bottom: 12px;
+        }
+        .btn {
+            display: block;
+            width: 100%;
+            background-color: #25d366;
+            color: white;
+            text-decoration: none;
+            padding: 10px;
+            border-radius: 6px;
+            font-weight: bold;
+            font-size: 14px;
+            text-align: center;
+        }
+        .policy {
+            background: #1e293b;
+            padding: 15px;
+            border-radius: 8px;
+            margin-top: 20px;
+            border-left: 4px solid #f59e0b;
+        }
+        .policy h4 {
+            color: #f59e0b;
+            margin-bottom: 8px;
+            font-size: 14px;
+        }
+        .policy p {
+            font-size: 12px;
+            color: #cbd5e1;
+            margin-bottom: 4px;
+        }
+        footer {
+            text-align: center;
+            margin-top: 20px;
+            font-size: 11px;
+            color: #64748b;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Malik & Mughal Online Services</h1>
+        <p class="sub">Buy Monetized TikTok Accounts (UK, USA, Germany, Japan, Canada & All Countries)</p>
+    </header>
+
+    <div class="banner">
+        ⚠️ Policy: 50% Advance Payment First, Remaining 50% After Delivery!
+    </div>
+
+    <div class="section-heading">🌐 Available Accounts</div>
+
+    <div class="card">
+        <h3>UK TikTok Account</h3>
+        <span class="tag">Monetization Ready</span>
+        <p>UK Creator Rewards Program Enabled Account.</p>
+        <a href="https://wa.me/923014196869?text=Hi,%20I%20want%20to%20buy%20UK%20Monetized%20TikTok%20Account." class="btn">💬 Buy via WhatsApp</a>
+    </div>
+
+    <div class="card">
+        <h3>USA TikTok Account</h3>
+        <span class="tag">High RPM Enabled</span>
+        <p>USA Verified Region Creator Rewards Program Account.</p>
+        <a href="https://wa.me/923014196869?text=Hi,%20I%20want%20to%20buy%20USA%20Monetized%20TikTok%20Account." class="btn">💬 Buy via WhatsApp</a>
+    </div>
+
+    <div class="card">
+        <h3>Germany TikTok Account</h3>
+        <span class="tag">Monetized Active</span>
+        <p>Germany Region Account for Fast Earnings.</p>
+        <a href="https://wa.me/923014196869?text=Hi,%20I%20want%20to%20buy%20Germany%20Monetized%20TikTok%20Account." class="btn">💬 Buy via WhatsApp</a>
+    </div>
+
+    <div class="card">
+        <h3>Japan TikTok Account</h3>
+        <span class="tag">High Performance</span>
+        <p>Japan Region Monetized TikTok Account.</p>
+        <a href="https://wa.me/923014196869?text=Hi,%20I%20want%20to%20buy%20Japan%20Monetized%20TikTok%20Account." class="btn">💬 Buy via WhatsApp</a>
+    </div>
+
+    <div class="card">
+        <h3>Canada TikTok Account</h3>
+        <span class="tag">Creator Program</span>
+        <p>Canada Region Monetized Account.</p>
+        <a href="https://wa.me/923014196869?text=Hi,%20I%20want%20to%20buy%20Canada%20Monetized%20TikTok%20Account." class="btn">💬 Buy via WhatsApp</a>
+    </div>
+
+    <div class="card">
+        <h3>All Other Countries</h3>
+        <span class="tag">Custom Country</span>
+        <p>France, Italy, Spain & Any Country Available on Order.</p>
+        <a href="https://wa.me/923014196869?text=Hi,%20I%20want%20to%20inquire%20about%20other%20country%20accounts." class="btn">💬 Contact on WhatsApp</a>
+    </div>
+
+    <div class="policy">
+        <h4>📌 Important Instructions:</h4>
+        <p>1. Send 50% advance payment to confirm your order.</p>
+        <p>2. Get full access, check login and details.</p>
+        <p>3. Pay remaining 50% balance after verification.</p>
+    </div>
+
+    <footer>
+        &copy; 2026 Malik & Mughal Online Services<br>
+        WhatsApp: 03014196869
+    </footer>
+
+</body>
+</html>
