@@ -1,0 +1,16 @@
+10-02 08:20:11.415|2	|build: 20251219
+10-02 08:20:11.443|2	|API level: 36
+10-02 08:20:11.466|2	|Device: Xiaomi ! 24048RN6CG ! klein_global
+10-02 08:20:11.487|2	|initLicense
+10-02 08:20:11.516|2	|getConfigs
+10-02 08:20:11.540|2	|Check STUN is enabled: no
+10-02 08:20:11.726|2	|request2
+10-02 08:20:11.993|2	|Method: getCurrentAccountId
+10-02 08:20:12.213|2	|Method: getCurrentAccountId
+10-02 08:20:12.276|2	|setConfigs
+10-02 08:20:12.836|2	|SipWrapper.setup: additional Flutter engine attached; preserving ready event target=true engines=2 isCallConnected=false
+10-02 08:20:28.692|2	|Method: getCurrentAccountId
+10-02 08:20:58.067|2	|Method: getCurrentAccountId
+10-02 08:21:31.279|2	|Method: getCurrentAccountId
+10-02 08:22:20.355|2	|Method: getCurrentAccountId
+10-02 08:22:29.688|2	|SipWrapper.clear detached one Flutter engine; wasActive=true remaining=1 activeReady=false
